@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Yamba</string>
+    <string name="status_default_text">140 characters string</string>
+    <string name="status_hint">What\'s happened?</string>
+    <string name="post_status_button">POST</string>
+    <string name="starwars_cinema_ticket">Starwars</string>
+    <string name="open_second_activity">Second Activity</string>
+    <string name="second_activity_welcome_text">Hello, this is Second Activity</string>
+</resources>
