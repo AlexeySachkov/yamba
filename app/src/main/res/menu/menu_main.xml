@@ -1,0 +1,21 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.intel.asachkov.yamba.ScrollingActivity">
+    <item
+        android:id="@+id/action_post_status"
+        android:title="@string/action_post_status"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_refresh"
+        android:title="@string/action_refresh"
+        android:icon="@android:drawable/ic_menu_rotate"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="Settings"/>
+</menu>
